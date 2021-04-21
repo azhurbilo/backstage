@@ -1,5 +1,16 @@
 # @backstage/plugin-catalog-import
 
+## 0.5.3
+
+### Patch Changes
+
+- 29a7e4be8: allow import from HTTP repositories
+- Updated dependencies [99fbef232]
+- Updated dependencies [ab07d77f6]
+- Updated dependencies [937ed39ce]
+- Updated dependencies [9a9e7a42f]
+  - @backstage/core@0.7.6
+
 ## 0.5.2
 
 ### Patch Changes
